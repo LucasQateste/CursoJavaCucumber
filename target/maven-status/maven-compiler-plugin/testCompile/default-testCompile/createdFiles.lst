@@ -1,0 +1,9 @@
+stepsDefinitions\Hooks.class
+pageObjects\TelaInicialPage.class
+utils\Utils.class
+stepsDefinitions\LoginSteps.class
+pageObjects\CadastrarUsuarioPage.class
+stepsDefinitions\CadastrarUsuarioSteps.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+runners\RunnerTest.class

@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: runners.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.887 sec <<< FAILURE!
+verificar dropDown da aba(TestasActions)  Time elapsed: 0.169 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'mover o mouse para aba PIM' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Quando("mover o mouse para aba PIM")
+public void moverOMouseParaAbaPIM() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Quando("mover o mouse para o menu configuration")
+public void moverOMouseParaOMenuConfiguration() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Quando("mover o mouse para o menu custom field")
+public void moverOMouseParaOMenuCustomField() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
